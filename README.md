@@ -1,0 +1,1 @@
+# everymind-banco_de_dados
